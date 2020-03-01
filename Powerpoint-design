@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kishor</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Odibee+Sans&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    
+    <section>
+        <div class="center col-lg-12">
+            <img src="kishor.jpg" class="rounded-circle" class="img-thumbnail">
+        </div>
+            <div class="col-12 bg-dark">
+            <span class="text-white col-6">Kishor</span> <span class="text-white col-6 Id"> &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; Id : 181120028</span>
+        </div>
+            <br>
+
+        
+            <div><h2 class=" w"> Welcome To</h2>
+                <h2 class="w"><span class="highlight"> <b> Powerpoint Design</b> </span> </h2>
+            </div>
+            <p class=" powerpoint">
+                
+Microsoft PowerPoint is a presentation program, created by Robert Gaskins and Dennis Austin at a software company named Forethought, Inc. It was released on April 20, 1987, initially for Macintosh computers only. Microsoft acquired PowerPoint for $14 million three months after it appeared. This was Microsoft's first significant acquisition, and Microsoft set up a new business unit for PowerPoint in Silicon Valley where Forethought had been located. Microsoft PowerPoint is one of many programs run by the company Microsoft and can be identified by its trademark orange, and P initial on the logo. It offers users many ways to display information from simple presentations to complex multimedia presentations.
+
+PowerPoint became a component of the Microsoft Office suite, first offered in 1989 for Macintosh and in 1990 for Windows, which bundled several Microsoft apps. Beginning with PowerPoint 4.0 (1994), PowerPoint was integrated into Microsoft Office development, and adopted shared common components and a converged user interface.
+
+PowerPoint's market share was very small at first, prior to introducing a version for Microsoft Windows, but grew rapidly with the growth of Windows and of Office. Since the late 1990s, PowerPoint's worldwide market share of presentation software has been estimated at 95 percent.
+
+PowerPoint was originally designed to provide visuals for group presentations within business organizations, but has come to be very widely used in many other communication situations, both in business and beyond. The impact of this much wider use of PowerPoint has been experienced as a powerful change throughout society, with strong reactions including advice that it should be used less, should be used differently, or should be used better.
+
+The first PowerPoint version (Macintosh 1987) was used to produce overhead transparencies, the second (Macintosh 1988, Windows 1990) could also produce color 35mm slides. The third version (Windows and Macintosh 1992) introduced video output of virtual slideshows to digital projectors, which would over time completely replace physical transparencies and slides. A dozen major versions since then have added many additional features and modes of operation and have made PowerPoint available beyond Apple Macintosh and Microsoft Windows, adding versions for iOS, Android, and web access
+            </p>       
+    </section>
+    
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</body>
+</html>
